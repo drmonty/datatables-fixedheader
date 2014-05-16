@@ -1,0 +1,22 @@
+{
+    "name": "drmonty-datatables-fixedheader",
+    "repo": "drmonty/datatables-fixedheader",
+    "description": "FixedHeader Plugin for DataTables",
+    "version": "2.1.1",
+    "homepage": "http://www.datatables.net/",
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://sprymedia.co.uk"
+    },
+    "dependencies": {
+        "components/jquery": ">=1.7"
+    },
+    "main": "js/dataTables.fixedHeader.js",
+    "scripts": [
+        "js/dataTables.fixedHeader.js"
+    ],
+    "files": [
+        "js/dataTables.fixedHeader.min.js",
+        "css/dataTables.fixedHeader.min.css"
+    ]
+}
