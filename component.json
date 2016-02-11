@@ -2,7 +2,7 @@
     "name": "drmonty-datatables-fixedheader",
     "repo": "drmonty/datatables-fixedheader",
     "description": "FixedHeader Plugin for DataTables",
-    "version": "3.1.0",
+    "version": "3.1.1",
     "homepage": "http://www.datatables.net/",
     "author": {
         "name": "Allan Jardine",
