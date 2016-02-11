@@ -19,8 +19,16 @@
                 "js/dataTables.fixedHeader.js"
             ],
             "files": [
-                "js/dataTables.fixedHeader.min.js",
-                "css/dataTables.fixedHeader.min.css"
+                "css/dataTables.fixedHeader.css",
+                "css/dataTables.fixedHeader.min.css",
+                "css/fixedHeader.foundation.css",
+                "css/fixedHeader.bootstrap.css",
+                "css/fixedHeader.foundation.min.css",
+                "css/fixedHeader.jqueryui.css",
+                "css/fixedHeader.bootstrap.min.css",
+                "css/fixedHeader.jqueryui.min.css",
+                "js/dataTables.fixedHeader.js",
+                "js/dataTables.fixedHeader.min.js"
             ],
             "shim": {
                 "deps": ["jquery"]
